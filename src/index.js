@@ -14,7 +14,7 @@ const routes = {
   "gcr.docker.ryanxu.top": "https://gcr.io", //changed
   "k8s-gcr.ryanxu.top": "https://k8s.gcr.io",
   "k8s.ryanxu.top": "https://registry.k8s.io",
-  "ghcr.ryanxu.top": "https://ghcr.io",
+  "ghcr.docekr.ryanxu.top": "https://ghcr.io",  //changed
   "cloudsmith.ryanxu.top": "https://docker.cloudsmith.io",
   "ecr.ryanxu.top": "https://public.ecr.aws",
 
