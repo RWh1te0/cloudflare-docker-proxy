@@ -11,7 +11,7 @@ const routes = {
   // production
   "docker.ryanxu.top": dockerHub,
   "quay.ryanxu.top": "https://quay.io",
-  "gcr.docker.ryanxu.top": "https://gcr.io",
+  "gcr.docker.ryanxu.top": "https://gcr.io", //changed
   "k8s-gcr.ryanxu.top": "https://k8s.gcr.io",
   "k8s.ryanxu.top": "https://registry.k8s.io",
   "ghcr.ryanxu.top": "https://ghcr.io",
